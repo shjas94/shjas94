@@ -5,11 +5,14 @@
   <br> Interested in Computer Vision and Multi Modal Learning.
   <br> Studied at Naver Boostcamp AI Tech
   <br> If you want to know more about me 👉🏻 <a href=https://velog.io/@shjas94><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Vector-logo-zone&logoColor=white"/></a>
-  <br><br> Contact Me:
-  <br> <a href="mailto:shjas94@outlook.kr"><img src=https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white/></a>
-</p>
-<p align='center'>
+  <br> </a>
 </br>
+
+<h3 align='center'>📩 Contact Me<h3/>
+  <p style="text-align: center;">
+  <a href="mailto:shjas94@outlook.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white"/>
+  <p/>
+<br><br/>
 
 <h3 align='center'>🛠 Tech Stack</h3>
 
@@ -44,7 +47,7 @@
 
 <div align="center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjas94&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjas94&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shjas94&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
