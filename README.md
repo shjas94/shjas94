@@ -10,10 +10,9 @@
 
 <h3 align='center'>📩 Contact Me<h3/>
   <p style="text-align: center;">
-  <a href="mailto:shjas94@outlook.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white"/>
+    <a href="mailto:shjas94@outlook.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white"/>
   <p/>
 <br><br/>
-
 <h3 align='center'>🛠 Tech Stack</h3>
 
   <h3 align='center'><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
