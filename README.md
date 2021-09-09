@@ -9,9 +9,9 @@
 </br>
 
 <h3 align='center'>📩 Contact Me<h3/>
-  <p style="text-align: center;">
-    <a href="mailto:shjas94@outlook.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white"/>
-  <p/>
+<p style="text-align: center;">
+  <a href="mailto:shjas94@outlook.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white"/>
+<p/>
 <br><br/>
 <h3 align='center'>🛠 Tech Stack</h3>
 
@@ -47,6 +47,7 @@
 <div align="center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjas94&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shjas94&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
