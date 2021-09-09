@@ -5,11 +5,11 @@
   <br> Interested in Computer Vision and Multi Modal Learning.
   <br> Studied at Naver Boostcamp AI Tech
   <br> If you want to know more about me 👉🏻 <a href=https://velog.io/@shjas94><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Vector-logo-zone&logoColor=white"/></a>
-  <br><br> Contact Me📩
+  <br><br>Contact Me📩
   <br> <a href="mailto:shjas94@outlook.kr"><img src=https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white/></a>
 </p>
 <p align='center'>
-</br>
+<br>
 
 <h3 align='center'>🛠 Tech Stack</h3>
 
@@ -20,13 +20,11 @@
   <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-FF8C0A?style=flat&logo=Pandas&logoColor=white"> 
   </h3>
-
   <h3 align='center'>
-
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> 
- </h3>
-</p>
+</h3>
 </br>
+</p>
 
 <br>
 <h3 align='center'>🥇 Awards</h3>
