@@ -4,7 +4,7 @@
   <br> 
   <br> Interested in Computer Vision and Multi Modal Learning.
   <br> Boostcamper of BoostCamp AI Tech
-  <br> If you want to know more about me 👉🏻 <a href=https://velog.io/@shjas94><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Vector-logo-zone&logoColor=white"/></a>
+  <br> If you want to know more about me 👉🏻 <a href=https://shjas94.github.io/><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Github&logoColor=white"/></a>
   <br><br>Contact Me📩
   <br> <a href="mailto:shjas94@outlook.kr"><img src=https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white/></a>
 </p>
