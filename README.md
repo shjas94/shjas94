@@ -27,12 +27,14 @@
 </p>
 
 <br>
-<h3 align='center'>🥇 Awards</h3>
+<h3 align='center'>🥇⚔️ Awards / Competition</h3>
 
 |  Date   |               Name               |  Organizer   |               Type               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 7 / 274 teams (In Progress)
 | 2021.08 |       AnimalDatathon 2021        | 한국축산테크 |       Keypoint Estimation        | 2 / 22 teams</br></br>([article](http://www.lamb.international/news/articleView.html?idxno=1672)) |
-| 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification |                                           4 / 215 teams                                           |
+| 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification |                                           4 / 215 teams (상위 4%)                                          |
+| 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 teams (상위 9%)
 
 </br>
 
