@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I'm%20Jaesub👋&fontSize=45&animation=fadeIn)
 
 <p align='center'>
+  
+  <h3 align='center'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshjas94&count_bg=%233D46C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a><h3/>
+  <h3 align='center'>
   <br> 
   <br> Interested in Computer Vision and Multi Modal Learning.
   <br> Boostcamper of BoostCamp AI Tech
   <br> If you want to know more about me 👉🏻 <a href=https://shjas94.github.io/><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Github&logoColor=white"/></a>
   <br><br>Contact Me📩
   <br> <a href="mailto:shjas94@outlook.kr"><img src=https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white/></a>
+  <h3/>
 </p>
 <p align='center'>
 <br>
