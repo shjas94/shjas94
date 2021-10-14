@@ -2,16 +2,19 @@
 
 <p align='center'>
   
-  <h3 align='center'>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshjas94&count_bg=%233D46C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a><h3/>
-  <h3 align='center'>
+  <p align='center'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshjas94&count_bg=%233D46C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+  </p>
+  
   <br> 
+  <p align='center'>
   <br> Interested in Computer Vision and Multi Modal Learning.
   <br> Boostcamper of BoostCamp AI Tech
   <br> If you want to know more about me 👉🏻 <a href=https://shjas94.github.io/><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Github&logoColor=white"/></a>
   <br><br>Contact Me📩
   <br> <a href="mailto:shjas94@outlook.kr"><img src=https://img.shields.io/badge/Outlook-0078D4?&style=flat-square&logo=Microsoft-Outlook&logocolor=white/></a>
-  <h3/>
+  </p>
+
 </p>
 <p align='center'>
 <br>
@@ -36,7 +39,7 @@
 
 |  Date   |               Name               |  Organizer   |               Type               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 274 teams 
+| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 290 teams 
 | 2021.08 |       AnimalDatathon 2021        | 한국축산테크 |       Keypoint Estimation        | 2 / 22 teams</br></br>([article](http://www.lamb.international/news/articleView.html?idxno=1672)) |
 | 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification |                                           4 / 215 teams (상위 4%)                                          |
 | 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 teams (상위 9%)
