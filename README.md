@@ -39,10 +39,11 @@
 
 |  Date   |               Name               |  Organizer   |               Type               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 290 teams 
-| 2021.08 |       AnimalDatathon 2021        | 한국축산테크 |       Keypoint Estimation        | 2 / 22 teams</br></br>([article](http://www.lamb.international/news/articleView.html?idxno=1672)) |
-| 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification |                                           4 / 215 teams (상위 4%)                                          |
-| 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 teams (상위 9%)
+| 2021.10 | 작물 병해 분류 AI 경진대회 | Dacon | Image Classification | 12 / 170 (상위 7%) |
+| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 290 (상위 4%) 
+| 2021.08 |       AnimalDatathon 2021        | 한국축산테크 |       Keypoint Estimation        | 2 / 22 (Awarded)</br></br>([article](http://www.lamb.international/news/articleView.html?idxno=1672)) |
+| 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification | 4 / 215 (상위 4%, Awarded)                                          |
+| 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 (상위 9%)
 
 </br>
 
