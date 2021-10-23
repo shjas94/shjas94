@@ -40,10 +40,13 @@
 |  Date   |               Name               |  Organizer   |               Type               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | 2021.10 | 작물 병해 분류 AI 경진대회 | Dacon | Image Classification | 12 / 170 (상위 7%) |
-| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 290 (상위 4%) 
+| 2021.10 | Ego-Vision 손동작 인식 AI 경진대회 | Dacon | Image Classification | 12 / 290 (상위 4%) |
 | 2021.08 |       AnimalDatathon 2021        | 한국축산테크 |       Keypoint Estimation        | 2 / 22 (Awarded)</br></br>([article](http://www.lamb.international/news/articleView.html?idxno=1672)) |
+| 2021.05 ~ 2021.06 | 수식 인식 | BoostCamp AI Tech | OCR | 5 / 12 |
+| 2021.05 | 재활용 품목 분류를 위한 Object Detection | BoostCamp AI Tech | Object Detection | 42 / 120 |
+| 2021.04 ~ 2021.05 | 재활용 품목 분류를 위한 Semantic Segmentation | Boostcamp AI Tech | Semantic Segmentation | 21 / 124 |
 | 2021.03 | 제 2회 컴퓨터 비전 학습 경진대회 |    Dacon     | Multi Label Image Classification | 4 / 215 (상위 4%, Awarded)                                          |
-| 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 (상위 9%)
+| 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 (상위 9%) |
 
 </br>
 
