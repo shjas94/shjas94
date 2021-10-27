@@ -49,13 +49,12 @@
 | 2020.09 | 제 1회 컴퓨터 비전 학습 경진대회 | Dacon | Image Classification | 29 / 356 (상위 9%) |
 
 </br>
-
 </br>
-
-<h3 align="center">🌡 My Github Status</h3>
+<details markdown="1">
+<summary><strong>🌡 My Github Status</strong></summary>
 
 <div align="center>
 
 [![Jaesub's GitHub stats](https://github-readme-stats.vercel.app/api?username=shjas94&hide_title=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shjas94&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+</details>
