@@ -8,7 +8,8 @@
   
   <br> 
   <p align='center'>
-  <br> Interested in Computer Vision / Generative Model / Multi-Model Learning.
+  <br> Interested in Computer Vision / Generative Model / 
+  <br>Multi-Model Learning
   <br> Boostcamper of BoostCamp AI Tech
   <br> If you want to know more about me 👉🏻 <a href=https://water-yacht-eaa.notion.site/Who-am-I-d2d6453bb4394fd8b0cf595c0c5116e3><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <br><br>Contact Me📩
